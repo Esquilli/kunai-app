@@ -1,7 +1,8 @@
 <div align="center">
     <img src="/Assets/Icon.png" width=200 />
     <h1>Kunai Bugs</h1>
-    <i>A public bug and feature request tracker for Kunai iOS app</i>
+    <i>A public bug and feature request tracker for <a href="https://kunai.forehead.software/">Kunai</a>
+ iOS app</i>
 </div>
 
 <br />
